@@ -1,0 +1,81 @@
+{
+    "basic_info": {
+        "name": "Eren Celik",
+        "titles": ["Mobile App Developer"],
+        "social": [{
+                "name": "github",
+                "url": "https://github.com/eren-celik",
+                "class": "fab fa-github"
+            },
+            {
+                "name": "twitter",
+                "url": "https://twitter.com/eren__celik",
+                "class": "fab fa-twitter"
+            },
+            {
+                "name": "medium",
+                "url": "https://eren-celik.medium.com/",
+                "class": "fab fa-medium"
+            },
+            {
+                "name": "stack-overflow",
+                "url": "https://stackoverflow.com/users/13615372/eren-%C3%87elik",
+                "class": "fab fa-stack-overflow"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/erencelikk/",
+                "class": "fab fa-linkedin"
+            },
+            {
+                "name": "mail",
+                "url": "mailto:elik.dark91@gmail.com, elik.dark91@icloud.com",
+                "class": "fas fa-envelope"
+            }
+        ],
+        "image": "myProfile.jpeg"
+    },
+    "skills": {
+        "icons": [{
+                "name": "HTML 5",
+                "class": "devicon-html5-plain",
+                "level": "75"
+            },
+            {
+                "name": "CSS 3",
+                "class": "devicon-css3-plain",
+                "level": "60"
+            },
+            {
+                "name": "Swift",
+                "class": "devicon-swift-plain-wordmark",
+                "level": "90"
+            },
+            {
+                "name": "Flutter",
+                "class": "devicon-flutter-plain",
+                "level": "80"
+            },
+            {
+                "name": "Dart",
+                "class": "devicon-dart-plain-wordmark",
+                "level": "80"
+            },
+            {
+                "name": "Git",
+                "class": "devicon-git-plain",
+                "level": "80"
+            },
+            {
+                "name": "Firebase",
+                "class": "devicon-firebase-plain-wordmark",
+                "level": "85"
+            },
+            {
+                "name": "express",
+                "class": "devicon-express-original-wordmark",
+                "level": "20"
+            }
+        ]
+    }
+}
